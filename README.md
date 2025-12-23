@@ -26,3 +26,8 @@ This project demonstrates how GC content varies between different organisms.
 1. Install the required libraries:
 ```bash
 pip install pandas matplotlib
+## 📊 Results Visualization
+
+The following chart shows the comparison of GC content between Human, Bacteria, and Virus DNA sequences:
+
+[![GC Content Comparison](Professional_Chart.png)](https://raw.githubusercontent.com/hanaradwan-21/bioinformatics-gc-content-analysis/main/Professional_Chart.png)
