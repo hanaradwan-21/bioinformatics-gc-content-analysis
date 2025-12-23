@@ -29,5 +29,7 @@ pip install pandas matplotlib
 ## 📊 Results Visualization
 
 The following chart shows the comparison of GC content between Human, Bacteria, and Virus DNA sequences:
-
 [GC Content Chart](https://raw.githubusercontent.com/hanaradwan-21/bioinformatics-gc-content-analysis/main/Professional_Chart.png)
+
+<img width="3000" height="1800" alt="Professional_Chart" src="https://github.com/user-attachments/assets/02993a3a-f0ae-4d68-817c-55ec87cebad9" />
+
